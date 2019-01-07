@@ -21,6 +21,5 @@ return max_so_far
 ```
 
 **Time complexity**: `O(n)`
+
 **Algorithm Paradigm**: Dynamic Programming
-
-
